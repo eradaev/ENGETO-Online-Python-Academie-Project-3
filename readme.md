@@ -32,7 +32,7 @@ The script runs from command line.
     	
 Usage example:
 
-user@MacBook ~% python elscraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6205' olomouc
+user@MacBook ~% python elscraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6205' hodonin
     	
-An example file named "olomouc.csv" generated from the command above is enclosed.
+An example file named "hodonin.csv" generated from the command above is enclosed.
 

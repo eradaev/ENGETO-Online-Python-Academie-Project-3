@@ -1,6 +1,6 @@
 ElectionsScraper scrapes data from public server volby.cz and saves them into newly made .csv file
 
-The code is capable of scraping regional data of 2017 Czech legislative elections, chosen by iser from the following link: 
+The code is capable of scraping regional data of 2017 Czech legislative elections, chosen by user from the following link: 
 
     https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 

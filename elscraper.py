@@ -1,5 +1,5 @@
 """
-projekt_3.py: treti projekt to Engeto Online Python Akademie
+projekt_3.py: treti projekt do Engeto Online Python Akademie
 
 author: Evgeniy Radaev
 email: eradaev@gmail.com
